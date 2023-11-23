@@ -27,17 +27,20 @@
 
         rparen {
             bindings = <&kp RIGHT_PARENTHESIS>;
-            key-positions = <50 54>;
+            key-positions = <54 24>;
+            layers = <0>;
         };
 
         rbracket {
             bindings = <&kp RIGHT_BRACKET>;
-            key-positions = <50 55>;
+            key-positions = <55 24>;
+            layers = <0>;
         };
 
         rbrace {
             bindings = <&kp RIGHT_BRACE>;
             key-positions = <24 49>;
+            layers = <0>;
         };
     };
 
